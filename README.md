@@ -8,7 +8,7 @@ The end goal is to use available data to clearly identify slow moving or unsold 
 
 ## 2. Problem Statement
 
-Kavira Marketsquare is an African supermarket headquartered in Lagos. In line with company’s custom, an annual review of the Abuja branch’s performance was conducted in January, 2026. 
+Kavira Marketsquare is an African supermarket headquartered in Lagos. In line with company procedure, an annual review of the Abuja branch’s performance was conducted in January, 2026. 
 
 The review showed a decline in the rate at which products sold out at the branch, which was beginning to affect overall stock performance. 
 
