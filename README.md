@@ -12,7 +12,7 @@
 
 Kavira Marketsquare is an African supermarket business headquartered in Lagos, Nigeria.
 
-Following its January 2026 performance review, the Abuja branch was reported to be experiencing a decline in product sell-out performance. Slow-moving stock occupy storage and shelf space for longer than expected, creating inventory management challenges and potential financial risk.
+Following its January 2026 performance review, the Abuja branch was reported to be experiencing a decline in product sell-out performance. Slow-moving stock occupies storage and shelf space for longer than expected, creating inventory management challenges and potential financial risk.
 
 This project analyses the branch’s inventory and sales records to identify products with batches that exceeded their defined sell-out thresholds, examine restocking patterns, and provide insights to support inventory management decisions.
 
@@ -84,7 +84,7 @@ The ₦15.55 million represents the stock value associated with batches that exc
 
 The affected products were restocked between four and ten times during 2025. Tomatoes 1kg and Eggs (Crate) had the highest recorded restocking frequency, at ten times each.
 
-Groundnut 200g, Rice 5kg, Salt 1kg, and Deodorant Roll-on, each had two batches that exceeded their thresholds, while other affected products had one each.
+Groundnut 200g, Rice 5kg, Salt 1kg, and Deodorant Roll-on each had two batches that exceeded their thresholds, while other affected products had one each.
 
 These patterns highlight products that may benefit from a closer review of replenishment decisions alongside sales and stock levels.
 
@@ -96,7 +96,7 @@ These comparisons provide a starting point for reviewing differences in product 
 
 ### Recurring patterns
 
-Another set of five products showed similar periods of slow sales in both 2024 and 2025:
+Five products showed similar periods of slow sales in both 2024 and 2025:
 
 - Body Lotion 400ml
 - Chin Chin 250g
@@ -116,7 +116,7 @@ Recommended actions include:
 1. **Review affected products:** Further examine the 27 products using their batch histories, sales quantities, and current stock levels.
 2. **Assess replenishment decisions:** Compare restocking quantities and timing against sales and available stock before adjusting reorder decisions.
 3. **Validate similar product comparisons:** Confirm whether the five products sharing the same name but different IDs have equivalent specifications and can be compared fairly.
-4. **Investigate demand-related factors:** More data should be provided to examine pricing, promotions, product availability, and customer demand to better understand the possible reasons for slow sell-out performance of identified products.
+4. **Investigate demand-related factors:** Where supporting data is available, examine pricing, promotions, product availability, and customer demand to better understand the possible reasons for slow sell-out performance of identified products.
 5. **Monitor sell-out trends:** Track monthly performance and compare it with earlier periods to determine whether slow movement existed in earlier years.
 
 These actions can help the business distinguish between recurring demand issues and temporary sales patterns before making permanent changes in supply and inventory.
