@@ -7,6 +7,7 @@
 **Focus:** Data cleaning, inventory analysis, sell-out performance, and business recommendations
 
 
+
 ## 1. Project Overview
 
 Kavira Marketsquare is an African supermarket business headquartered in Lagos, Nigeria.
