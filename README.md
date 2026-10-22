@@ -44,6 +44,9 @@ The analysis focused on the following questions:
 
 The data covered 2024 to early 2026 and was simulated using real-world inventory and supply scenarios as a guide.
 
+### Data Source
+The datasets were simulated for this project, using real-world supermarket inventory and supply operations as a guide.
+
 ### Data Cleaning and Preparation
 
 Data cleaning was performed in Excel before analysis in MySQL.
