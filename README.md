@@ -45,7 +45,7 @@ The analysis focused on the following questions:
 The data covered 2024 to early 2026 and was simulated using real-world inventory and supply scenarios as a guide.
 
 ### Data Source
-The datasets were simulated for this project, using real-world supermarket inventory and supply operations as a guide.
+The datasets were simulated for this project while ensuring realistic supermarket inventory and supply practices.
 
 ### Data Cleaning and Preparation
 
